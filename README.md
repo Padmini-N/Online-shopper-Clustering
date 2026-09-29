@@ -63,7 +63,3 @@ online-shoppers-clustering/
 └── images/
 ```
 
-## Author
-
-**Padmini (Mini) Nagesh**, Marketing & Media Data Analyst, Melbourne
-[LinkedIn URL] | [Portfolio URL]
